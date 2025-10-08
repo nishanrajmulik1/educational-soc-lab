@@ -1,9 +1,0 @@
-﻿.DS_Store
-Thumbs.db
-.vscode/
-*.log
-*.key
-*.pem
-*.pfx
-*.crt
-secrets.txt
