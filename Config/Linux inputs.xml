@@ -1,9 +1,0 @@
-[monitor:///var/log/auth.log]
-index = linux
-sourcetype = linux_secure
-disabled = 0
-
-[monitor:///var/log/syslog]
-index = linux
-sourcetype = syslog
-disabled = 0
