@@ -1,0 +1,16 @@
+[WinEventLog://Security]
+index = win
+disabled = 0
+
+[WinEventLog://System]
+index = win
+disabled = 0
+
+[WinEventLog://Application]
+index = win
+disabled = 0
+
+# Sysmon
+[WinEventLog://Microsoft-Windows-Sysmon/Operational]
+index = win
+disabled = 0
